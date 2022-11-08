@@ -1,1 +1,3 @@
 ChangedText
+
+test pull git with cli
